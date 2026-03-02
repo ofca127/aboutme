@@ -5,10 +5,10 @@ title: Home
 
 # pancyber
 
-Information security engineer.
+Information security engineer ·
 Threat defence · incident response · automation.
 
-## Linki
+## links
 
 - [GitHub](https://github.com/ofca127)
 - [LinkedIn](https://www.linkedin.com/in/karol-infosec/)
