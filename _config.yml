@@ -1,6 +1,6 @@
 title: "Imię Nazwisko"
 description: "Krótkie bio"
-url: "https://omnie.pancyber.eu"
+url: "https://aboutme.pancyber.eu"
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-seo-tag
