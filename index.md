@@ -3,12 +3,13 @@ layout: default
 title: Home
 ---
 
-# Imię Nazwisko
+# pancyber
 
-Krótkie bio — 1-2 zdania o sobie, czym się zajmujesz, co Cię interesuje.
+Information security engineer.
+Threat defence · incident response · automation.
 
-## Kontakt
+## Linki
 
 - [GitHub](https://github.com/ofca127)
-- [LinkedIn](https://linkedin.com/in/TWOJ-PROFIL)
+- [LinkedIn](https://www.linkedin.com/in/karol-infosec/)
 - Email: <span id="em"></span><script>var u='kontakt',d='pancyber.eu',e=u+'@'+d;var s=document.getElementById('em');s.innerHTML='<a href="mailto:'+e+'">'+e+'</a>';</script>
