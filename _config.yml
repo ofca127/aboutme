@@ -1,6 +1,6 @@
 title: "pancyber"
 description: "Information security engineer"
-url: "https://aboutme.pancyber.eu"
+url: "https://pancyber.eu"
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-seo-tag
